@@ -1,11 +1,38 @@
 {
-  "posts": [
-    {
-      "id": 123,
-      "title": "hello"
+    "posts": [
+        {
+            "code": 200,
+            "success": true,
+            "data": [
+                {
+                    "dspVOList": [
+                        {
+                            "orderId": "1606170449310220289",
+                            "filePath": "https://dianduyun-dev.oss-cn-shanghai.aliyuncs.com/upload/system/dsp/20221223/9a5acfff98c7fd0fb741f6a854952d88.png",
+                            "materialContent": "",
+                            "advertType": 0,
+                            "pointDictId": "1569609544646729774",
+                            "endTime": "2022-12-30 00:00:00"
+                        }
+                    ]
+                },
+                {
+                    "dspVOList": [
+                        {
+                            "orderId": "1605841667825852418",
+                            "filePath": "https://dianduyun-dev.oss-cn-shanghai.aliyuncs.com/upload/system/dsp/20221222/a8a53ab22ac1e1565af4d8ea07956dc6.png",
+                            "materialContent": "",
+                            "advertType": 0,
+                            "pointDictId": "1569609544646729774",
+                            "endTime": "2022-12-30 00:00:00"
+                        }
+                    ]
+                }
+            ],
+            "msg": "操作成功"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
